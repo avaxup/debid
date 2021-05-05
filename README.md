@@ -1,6 +1,7 @@
 ![welcome to debid](https://gblobscdn.gitbook.com/assets%2F-MZnl43G2ExUa5KaXsPD%2F-MZwFfySVp0hE-7eVarP%2F-MZwG-Wa-ytK4E0jhDMa%2F0.jpg?alt=media&token=6ac4d74b-57f2-4d1d-bd54-a112c7091940)
 
-#DEBID
+**DEBID**
+
 Create Your Decentralized Auction Protocols with Debid Debid fully decentralized.. Create auctions without central authority sitting between bidders and seller.
 
 Debid is a Decentralized Bidding Protocol built for Avalanche and Ethereum assets with low transaction fees and a democratic distribution.
