@@ -1,0 +1,14 @@
+[Unit]
+Description=Debid Webserver
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=5
+User=root
+WorkingDirectory=/root/debid/
+ExecStart=/bin/bash /root/debid/start.sh
+
+[Install]
+WantedBy=multi-user.target
